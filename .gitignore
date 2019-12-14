@@ -1,5 +1,6 @@
-.DS_Store/
+
 .vscode/
 venv/
-.env
 .DS_Store
+.env
+
