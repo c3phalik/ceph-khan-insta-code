@@ -1,4 +1,0 @@
-nltk==3.4.5
-pycountry==19.8.18
-six==1.13.0
-textblob==0.15.3
