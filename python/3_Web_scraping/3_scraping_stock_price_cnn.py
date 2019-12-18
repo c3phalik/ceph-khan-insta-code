@@ -1,7 +1,8 @@
 """
 Author: Ceph A. Khan
 Series: Web-scraping with Python
-A very basic program to scrape latest stock prices from CNN
+A very basic program to scrape latest 
+stock pricess from CNN.com
 """
 
 import requests
